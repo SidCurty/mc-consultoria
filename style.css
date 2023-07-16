@@ -79,7 +79,7 @@ main{
   max-width: 760px;
   margin: 0 auto;
   padding: 0 20px;
-  text-align: center;/*alinhamento texto barra*/
+  text-align: justify;/*alinhamento texto barra*/
 }
 
 section.module p{
